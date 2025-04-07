@@ -1,0 +1,12 @@
+{
+  "name": "terabox-api",
+  "version": "1.0.0",
+  "main": "api/terabox.js",
+  "scripts": {
+    "start": "node api/terabox.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "playwright": "^1.42.1"
+  }
+}
